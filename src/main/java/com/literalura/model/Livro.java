@@ -1,4 +1,4 @@
-package com.literalura;
+package com.literalura.model;
 
 import com.google.gson.annotations.SerializedName;
 import jakarta.persistence.*;
